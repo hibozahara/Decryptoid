@@ -1,6 +1,6 @@
 
 <?php
 $hn = 'localhost';
-$un = 'hibozahara';
-$pw = 'cs174';
+$un = ' ';
+$pw = ' ';
 $db = 'final';
